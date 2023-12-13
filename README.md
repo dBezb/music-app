@@ -21,3 +21,7 @@ This project is a web application built with React for music playback, search, a
 - **SCSS:** _SCSS is used to style components, providing a more maintainable and organized approach. Project styles are written in SCSS syntax and then compiled into regular CSS, allowing for cleaner and modular styling._
 
 ## Showcase
+1.
+![FirstScreen](https://github.com/dBezb/music-app/assets/130229787/d9758954-83c8-459d-bf14-1cea29bb3e1a)
+2.
+![SecondScreen](https://github.com/dBezb/music-app/assets/130229787/97037199-ae1a-4355-90da-aef11350ae8e)
